@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Python and SQL
 - 👯 I’m looking to collaborate on projects on data analysis with Excel, Power BI, SQL or Python
 - 📫 How to reach me: adepejuoladapo@gmail.com
-- ⚡ I am available for internship, freelance, contract and full time data analyst roles
+- ⚡ I am available for internships, freelance, contract and full time data analyst roles
